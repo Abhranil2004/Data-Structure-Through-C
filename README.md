@@ -21,7 +21,7 @@ To get started with the code, follow these steps:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/Data-Structure-Through-C.git
+   git clone https://github.com/Abhranil2004/Data-Structure-Through-C
 ## Contributing
 Contributions are welcome! If you have suggestions, improvements, or bug fixes, please fork the repository and submit a pull request. For major changes, please open an issue first to discuss what you would like to change.
 
