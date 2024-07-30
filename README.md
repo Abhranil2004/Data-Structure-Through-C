@@ -6,15 +6,13 @@ Welcome to the "Data Structure Through C" repository! This project provides impl
 
 The repository is organized into several directories, each containing code related to different data structures:
 
-- `arrays/`: Implementation and examples of array data structures.
-- `linked_lists/`: Implementation and examples of singly and doubly linked lists.
-- `stacks/`: Implementation of stack data structures.
-- `queues/`: Implementation of queue data structures.
-- `trees/`: Implementation of tree data structures, including binary trees and binary search trees.
-- `graphs/`: Implementation of graph data structures and algorithms.
-- `hash_tables/`: Implementation of hash tables and hash functions.
-- `sorting_algorithms/`: Implementation of various sorting algorithms.
-- `searching_algorithms/`: Implementation of various searching algorithms.
+- `Arrayspointers/`: Implementation and examples of arrays and pointers.
+- `Graph/`: Implementation of graph data structures and algorithms.
+- `Introduction/`: Introductory materials and basic examples related to data structures.
+- `Searching/`: Implementation of various searching algorithms.
+- `Sorting/`: Implementation of various sorting algorithms.
+- `Stack and Queue/`: Implementation of stack and queue data structures.
+- `Trees/`: Implementation of tree data structures, including binary trees and binary search trees.
 
 ## Getting Started
 
